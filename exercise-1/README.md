@@ -24,3 +24,6 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+What I ate for breakfast today. 
+I had a banana. 
